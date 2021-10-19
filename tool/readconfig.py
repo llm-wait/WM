@@ -15,9 +15,11 @@ class ReadConfig:
         return result
 if __name__ == '__main__':
     filename="wmcase.conf"
-    res=ReadConfig(filename).read_config("MODE",'mode')
+    res=eval(ReadConfig(filename).read_config("MODE",'mode'))
     print(res)
-    login_token="112sdff23rfd5"
-    rw=ReadConfig(filename).write_config("Token","token",login_token)
-    res1 = ReadConfig(filename).read_config("Token","token")
-    print(type(res1))
+    for i in res.keys():
+        print(i)
+    # login_token="112sdff23rfd5"
+    # rw=ReadConfig(filename).write_config("Token","token",login_token)
+    # res1 = ReadConfig(filename).read_config("Token","token")
+    # print(type(res1))

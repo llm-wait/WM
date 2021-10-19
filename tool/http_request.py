@@ -20,7 +20,10 @@ class HttpRequest():
     def http_request(self,method,url,param=None,cookie=None,header=None):
         try:
             if method.lower()=="get":
-                resp=self.session.get(url,params=param,cookies=cookie,headers=header)
+                if param !=None:
+                    resp=self.session.get(url,params=param,cookies=cookie,headers=header)
+                else:
+                    resp = self.session.get(url, cookies=cookie, headers=header)
             elif method.lower() =="post":
                 if header=={"Content-Type":"application/json"}:
                     resp=self.session.post(url,json=param, cookies=cookie,headers=header)
@@ -33,8 +36,12 @@ class HttpRequest():
             raise e
         return resp
 if __name__ == '__main__':
-    login_url="http://192.168.199.4:8087/wm/sys/login/getLoginInfo"
-    #login_data={"id":1}
+    login_url="http://192.168.199.4:8087/wm/task/taskdept/addlist"
+    login_data=[{"dept_id":"f18602be7ff14c918121d0fe7775fd51","task_index_id":"EA6B7F547F1A43BC975698ACD883C2AC"}]
+    headers={"Content-Type":"application/json"}
     hp=HttpRequest()
-    a=hp.http_request("get",login_url,)
-    print(a.content)
+    a=hp.http_request("post",login_url,login_data,header=headers)
+    print(a.json())
+    # url1="http://192.168.199.4:8087/wm/sys/login/getLoginInfo"
+    # resp1=hp.http_request("get",url1)
+    # print(resp1.json())

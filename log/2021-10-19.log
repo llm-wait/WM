@@ -1,0 +1,226 @@
+2021-10-19 10:02:28,255 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:28,408 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:28,561 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:28,716 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:28,794 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '94e209c960ed49d7adb74ac98b49d472', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:02:28,794 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '94e209c960ed49d7adb74ac98b49d472'}
+2021-10-19 10:02:28,947 INFO [root] [testhttp.py (test001:61] - 处理后的请求参数{'id': '94e209c960ed49d7adb74ac98b49d472', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:02:29,044 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:29,195 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:29,341 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:29,412 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '94e209c960ed49d7adb74ac98b49d472', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:02:29,412 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '94e209c960ed49d7adb74ac98b49d472'}
+2021-10-19 10:02:29,568 INFO [root] [testhttp.py (test001:61] - 处理后的请求参数{'id': '94e209c960ed49d7adb74ac98b49d472'}
+2021-10-19 10:02:29,646 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:29,793 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:29,863 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '94e209c960ed49d7adb74ac98b49d472', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:02:29,863 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '94e209c960ed49d7adb74ac98b49d472'}
+2021-10-19 10:02:30,004 INFO [root] [testhttp.py (test001:61] - 处理后的请求参数{'id': '94e209c960ed49d7adb74ac98b49d472'}
+2021-10-19 10:02:30,086 INFO [root] [testhttp.py (test001:78] - 断言成功
+2021-10-19 10:02:34,241 ERROR [root] [http_request.py (http_request:35] - 请求方式错误
+2021-10-19 10:02:34,258 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', None, None]
+2021-10-19 10:18:03,850 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,011 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,164 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,318 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,387 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '2595ed04e31d4082aae1a681bdbf468d', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:18:04,388 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '2595ed04e31d4082aae1a681bdbf468d'}
+2021-10-19 10:18:04,526 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '2595ed04e31d4082aae1a681bdbf468d', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:18:04,614 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,764 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,907 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:04,977 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '2595ed04e31d4082aae1a681bdbf468d', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:18:04,978 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '2595ed04e31d4082aae1a681bdbf468d'}
+2021-10-19 10:18:05,128 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '2595ed04e31d4082aae1a681bdbf468d'}
+2021-10-19 10:18:05,205 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:05,348 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:05,420 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '2595ed04e31d4082aae1a681bdbf468d', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:18:05,420 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '2595ed04e31d4082aae1a681bdbf468d'}
+2021-10-19 10:18:05,559 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '2595ed04e31d4082aae1a681bdbf468d'}
+2021-10-19 10:18:05,640 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:05,789 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:18:05,860 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': '6799b472fb6542b58d6c1945049f3474'}", '测试通过']
+2021-10-19 10:18:05,860 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': '6799b472fb6542b58d6c1945049f3474'}
+2021-10-19 10:18:05,999 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:19:22,125 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:22,281 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:22,435 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:22,579 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:22,650 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '83d0f55915054524980248bd563a0de4', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:19:22,650 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '83d0f55915054524980248bd563a0de4'}
+2021-10-19 10:19:22,791 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '83d0f55915054524980248bd563a0de4', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:19:22,879 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:23,032 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:23,181 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:23,253 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '83d0f55915054524980248bd563a0de4', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:19:23,253 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '83d0f55915054524980248bd563a0de4'}
+2021-10-19 10:19:23,401 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '83d0f55915054524980248bd563a0de4'}
+2021-10-19 10:19:23,480 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:23,627 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:23,697 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '83d0f55915054524980248bd563a0de4', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:19:23,697 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '83d0f55915054524980248bd563a0de4'}
+2021-10-19 10:19:23,843 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '83d0f55915054524980248bd563a0de4'}
+2021-10-19 10:19:23,923 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:24,072 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:19:24,145 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': '326b6fb6b12d4eeab1e154c0d33626e1'}", '测试通过']
+2021-10-19 10:19:24,145 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': '326b6fb6b12d4eeab1e154c0d33626e1'}
+2021-10-19 10:19:24,288 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:19:24,362 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:32:35,419 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:35,576 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:35,730 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:35,874 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:35,945 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '66ae5fc4ed08412ea8d081ea796e0f0e', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:32:35,945 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '66ae5fc4ed08412ea8d081ea796e0f0e'}
+2021-10-19 10:32:36,084 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '66ae5fc4ed08412ea8d081ea796e0f0e', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:32:36,170 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:36,322 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:36,470 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:36,543 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '66ae5fc4ed08412ea8d081ea796e0f0e', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:32:36,543 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '66ae5fc4ed08412ea8d081ea796e0f0e'}
+2021-10-19 10:32:36,687 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '66ae5fc4ed08412ea8d081ea796e0f0e'}
+2021-10-19 10:32:36,766 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:36,920 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:36,991 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '66ae5fc4ed08412ea8d081ea796e0f0e', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:32:36,992 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '66ae5fc4ed08412ea8d081ea796e0f0e'}
+2021-10-19 10:32:37,132 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '66ae5fc4ed08412ea8d081ea796e0f0e'}
+2021-10-19 10:32:37,215 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:37,363 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:37,435 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': 'd7eef2a8a79f40d08efd40223db51d36'}", '测试通过']
+2021-10-19 10:32:37,435 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': 'd7eef2a8a79f40d08efd40223db51d36'}
+2021-10-19 10:32:37,573 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:32:37,647 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:58,160 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:58,320 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:58,478 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:58,626 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:58,698 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '180e8c56fb8f42ca9f53136f15605820', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:32:58,698 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '180e8c56fb8f42ca9f53136f15605820'}
+2021-10-19 10:32:58,840 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '180e8c56fb8f42ca9f53136f15605820', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:32:58,925 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:59,077 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:59,221 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:59,292 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '180e8c56fb8f42ca9f53136f15605820', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:32:59,292 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '180e8c56fb8f42ca9f53136f15605820'}
+2021-10-19 10:32:59,435 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '180e8c56fb8f42ca9f53136f15605820'}
+2021-10-19 10:32:59,512 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:59,667 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:32:59,739 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '180e8c56fb8f42ca9f53136f15605820', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:32:59,739 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '180e8c56fb8f42ca9f53136f15605820'}
+2021-10-19 10:32:59,881 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '180e8c56fb8f42ca9f53136f15605820'}
+2021-10-19 10:32:59,962 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:33:00,109 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:33:00,178 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': '42c242486d4145b6bfccda6e0fa6dce4'}", '测试通过']
+2021-10-19 10:33:00,178 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': '42c242486d4145b6bfccda6e0fa6dce4'}
+2021-10-19 10:33:00,318 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:33:00,396 INFO [root] [testhttp.py (test001:82] - 断言成功
+2021-10-19 10:39:54,219 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:54,360 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:54,491 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:54,614 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:54,673 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '9654f4492ce54184af62133fd778ef01', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:39:54,673 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '9654f4492ce54184af62133fd778ef01'}
+2021-10-19 10:39:54,793 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '9654f4492ce54184af62133fd778ef01', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:39:54,872 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,002 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,125 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,186 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '9654f4492ce54184af62133fd778ef01', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:39:55,186 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '9654f4492ce54184af62133fd778ef01'}
+2021-10-19 10:39:55,305 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '9654f4492ce54184af62133fd778ef01'}
+2021-10-19 10:39:55,375 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,507 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,567 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '9654f4492ce54184af62133fd778ef01', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:39:55,567 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '9654f4492ce54184af62133fd778ef01'}
+2021-10-19 10:39:55,685 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '9654f4492ce54184af62133fd778ef01'}
+2021-10-19 10:39:55,756 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,879 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:55,938 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': '2bbd39b2bfb74203a436fbb0b1d25a58'}", '测试通过']
+2021-10-19 10:39:55,938 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': '2bbd39b2bfb74203a436fbb0b1d25a58'}
+2021-10-19 10:39:56,057 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:39:56,120 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:56,422 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:56,960 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:57,635 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:57,872 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:58,078 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:59,766 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:39:59,965 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:40:00,116 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:27,660 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 411, 'message': '登录过期，请重新登录！'}", None]
+2021-10-19 10:50:27,671 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 411, 'message': '登录过期，请重新登录！'}", None]
+2021-10-19 10:50:27,675 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 411, 'message': '登录过期，请重新登录！'}", None]
+2021-10-19 10:50:27,682 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': 'ca7fabcb07c845d6b26fb18d796fb3d4'}", None]
+2021-10-19 10:50:27,682 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': 'ca7fabcb07c845d6b26fb18d796fb3d4'}
+2021-10-19 10:50:51,281 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:51,427 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:51,567 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:51,696 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:51,761 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '98486dce4eff4d1e8446519059beda99', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:50:51,761 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '98486dce4eff4d1e8446519059beda99'}
+2021-10-19 10:50:51,889 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '98486dce4eff4d1e8446519059beda99', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:50:51,973 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:52,112 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:52,244 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:52,307 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '98486dce4eff4d1e8446519059beda99', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:50:52,308 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '98486dce4eff4d1e8446519059beda99'}
+2021-10-19 10:50:52,436 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '98486dce4eff4d1e8446519059beda99'}
+2021-10-19 10:50:52,508 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:52,649 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:52,712 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '98486dce4eff4d1e8446519059beda99', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:50:52,712 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '98486dce4eff4d1e8446519059beda99'}
+2021-10-19 10:50:52,839 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '98486dce4eff4d1e8446519059beda99'}
+2021-10-19 10:50:52,916 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:53,050 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:50:53,114 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': '3264ff56c0864020be19513f9749100a'}", '测试通过']
+2021-10-19 10:50:53,114 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': '3264ff56c0864020be19513f9749100a'}
+2021-10-19 10:50:53,241 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:50:53,310 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:51:59,237 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:51:59,384 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:51:59,521 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:51:59,650 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:51:59,713 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '624645ac813a4abea70f9bba3c546942', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:51:59,713 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '624645ac813a4abea70f9bba3c546942'}
+2021-10-19 10:51:59,838 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '624645ac813a4abea70f9bba3c546942', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:51:59,923 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:00,060 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:00,188 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:00,251 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '624645ac813a4abea70f9bba3c546942', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:52:00,251 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '624645ac813a4abea70f9bba3c546942'}
+2021-10-19 10:52:00,377 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '624645ac813a4abea70f9bba3c546942'}
+2021-10-19 10:52:00,448 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:00,587 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:00,650 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': '624645ac813a4abea70f9bba3c546942', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:52:00,650 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': '624645ac813a4abea70f9bba3c546942'}
+2021-10-19 10:52:00,777 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': '624645ac813a4abea70f9bba3c546942'}
+2021-10-19 10:52:00,851 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:00,981 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:52:01,044 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': 'd2cad6a535084e2b8f36e4cfbf70480e'}", '测试通过']
+2021-10-19 10:52:01,044 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': 'd2cad6a535084e2b8f36e4cfbf70480e'}
+2021-10-19 10:52:01,170 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:52:01,236 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:14,831 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:14,977 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:15,113 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:15,241 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:15,304 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': 'e21c2761e08942ce92b1c15d901e9d68', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:53:15,304 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': 'e21c2761e08942ce92b1c15d901e9d68'}
+2021-10-19 10:53:15,429 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': 'e21c2761e08942ce92b1c15d901e9d68', 'login_name': 'test', 'login_pwd': '123456', 'remark': 'test', 'roleIDs': '8888'}
+2021-10-19 10:53:15,512 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:15,648 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:15,778 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:15,843 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': 'e21c2761e08942ce92b1c15d901e9d68', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:53:15,843 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': 'e21c2761e08942ce92b1c15d901e9d68'}
+2021-10-19 10:53:15,966 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': 'e21c2761e08942ce92b1c15d901e9d68'}
+2021-10-19 10:53:16,039 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:16,179 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:16,244 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_004', '获取登录信息', 'http://192.168.199.4:8087/wm/sys/login/getLoginInfo', 'get', '正向', 'None', 'None', None, None, None, None, 200, "{'code': 200, 'data': {'id': 'e21c2761e08942ce92b1c15d901e9d68', 'login_name': 'test', 'login_pwd': '123456', 'dept_id': '', 'dept_name': '', 'remark': 'test', 'roleFlag': 'jhcm'}, 'message': ''}", '测试通过']
+2021-10-19 10:53:16,244 INFO [root] [testhttp.py (test001:50] - 依赖数据{'id': 'e21c2761e08942ce92b1c15d901e9d68'}
+2021-10-19 10:53:16,373 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'id': 'e21c2761e08942ce92b1c15d901e9d68'}
+2021-10-19 10:53:16,449 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:16,586 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:16,650 INFO [root] [testhttp.py (test001:44] - 依赖的接口信息['case_011', 'token登录', 'http://localhost:8080/pinter/bank/api/login2', 'post', '成功登录', '{"userName":"admin",\n"password":"1234"}', 'None', None, None, None, None, 'success', "{'code': '0', 'message': 'success', 'data': 'cfde76891fb34b6fa45c367a528d28ce'}", '测试通过']
+2021-10-19 10:53:16,651 INFO [root] [testhttp.py (test001:50] - 依赖数据{'testfan-token': 'cfde76891fb34b6fa45c367a528d28ce'}
+2021-10-19 10:53:16,779 INFO [root] [testhttp.py (test001:64] - 处理后的请求参数{'userName': 'admin'}
+2021-10-19 10:53:16,847 INFO [root] [testhttp.py (test001:81] - 断言成功
+2021-10-19 10:53:16,987 INFO [root] [testhttp.py (test001:81] - 断言成功

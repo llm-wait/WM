@@ -1,14 +1,14 @@
 import unittest
 import time
 
-from WM.tool.datastore import TestOne
+from WM.script.testhttp import TestHttp
 from WM.tool.htmlTestRunner import HTMLTestRunner
 from WM.tool.project_path import test_report_path
 
 
 suit=unittest.TestSuite()
 load=unittest.TestLoader()
-suit.addTest(load.loadTestsFromTestCase(TestOne))
+suit.addTest(load.loadTestsFromTestCase(TestHttp))
 
 #执行
 report_now=time.strftime('%Y-%m-%d_%H_%M_%S')

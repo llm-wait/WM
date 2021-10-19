@@ -12,4 +12,4 @@ tool目录中存放封装的方法
     --readExcel.py封装读写excel用例方法
     --sendmail.py封装发送邮件方法
     --test_http.py封装测试类
-    --run.py程序运行的入口
+    --run.py程序运行的cd入口
